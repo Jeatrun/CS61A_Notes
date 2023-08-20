@@ -1,4 +1,4 @@
-# # lecture 4
+# Lecture 4
 
 ## 1.Designing Functions
 
