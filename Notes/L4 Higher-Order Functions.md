@@ -1,4 +1,4 @@
-# Lecture 4
+# Higher-Order Functions
 
 ## 1.Designing Functions
 
